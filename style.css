@@ -1,0 +1,153 @@
+body{
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.name-highlight{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: -50px;
+    padding-top: 70px;
+}
+.name-highlight1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: rgb(237,76,122)
+
+
+}
+.top-banner{
+  
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 50px;
+    
+}
+.top-banner p{
+    color: gray;
+    margin-bottom: 40px;
+  
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(237,76,122) ;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+
+section{
+   height: 700px;
+    padding-bottom: 100px;
+    
+}
+
+.header-image{
+    width: 100%;
+}
+.Biography-area{
+    text-align:center;
+}
+
+.experience-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header-image1{
+    width: 100%;
+    padding-top: 80px;
+}
+.bigography-name{
+    padding-top: 100px;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.experience-area p{
+    color: dimgray;
+    margin-bottom: 50PX;
+}
+
+.imgo{
+    width: 30%;
+    float: left;
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 20px;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 50px;
+}
+.latest-name{
+    text-align:center;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.message-area{
+   background-color:rgb(237,76,122);
+   text-align:center;
+   font-size: 30px;
+   font-weight: 500;
+   color:white;
+   font-family: 'Poppins', sans-serif;
+   padding: 20px 0px;
+}
+
+.message-area p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.client-name{
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: -200px;
+}
+.client-fed{
+    text-align:center;
+    padding: 30px 0px 100px 0px;
+}
+.client-title {
+    color: dimgray;
+    margin-top: -18px;
+}
+
+footer p{
+    color: dimgray;
+    font-size: 12px;
+    text-align: center;
+}
+    
+.client-msg{
+    color:black;
+}
